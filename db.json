@@ -1,0 +1,46 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 400g",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Torta",
+      "precioPlatillo": "5546",
+      "categoria": "postre",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "pizza",
+      "precioPlatillo": "10",
+      "categoria": "cortes",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "dd",
+      "precioPlatillo": "3",
+      "categoria": "cortes",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "Pera",
+      "precioPlatillo": "1",
+      "categoria": "postre",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "swsddfdsfg",
+      "precioPlatillo": "454",
+      "categoria": "ensalada",
+      "id": 7
+    },
+    {
+      "nombrePlatillo": "aaaaaa",
+      "precioPlatillo": "32323",
+      "categoria": "bebida",
+      "id": 8
+    }
+  ]
+}
